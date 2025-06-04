@@ -3,3 +3,7 @@
 <div align="center" style="display:flex;flex-direction:row;">
   <img src="https://profile-counter.glitch.me/ktwu01/count.svg?"  />
 </div>
+
+Email: 
+
+![email](attachments/email.png)
