@@ -16,7 +16,7 @@
 
 
 <!-- Email: ![email](attachments/email.png) -->
-Email: <img src="attachments/email.png" alt="email" width="50" height="10"/>
+Email: <img src="attachments/email.png" alt="email" width="100" height="20">
 
 Profile view count:
   <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="100" height="20">
