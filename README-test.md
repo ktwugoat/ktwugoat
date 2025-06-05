@@ -1,7 +1,16 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
 <a href="https://github.com/ktwu01/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://github.com/ktwu01/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=false" />
+</a>
+
+<a href="https://github.com/ktwu01/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=false&show_icons=true" />
 </a>
 
 I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
