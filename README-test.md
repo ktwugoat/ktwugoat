@@ -1,17 +1,39 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false" />
 
-<a href="https://github.com/ktwu01/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true" />
-</a>
 
-<a href="https://github.com/ktwu01/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=false" />
-</a>
 
-<a href="https://github.com/ktwu01/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=false&show_icons=true" />
-</a>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false&langs_count=8" />
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&hide_progress=true&langs_count=8)
+
+
+
+
+
+
+[![ktwu01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01)](https://github.com/anuraghazra/github-readme-stats)
 
 I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
 我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
@@ -37,12 +59,13 @@ I pour my heart into every project I build, and GitHub is where I forge my dream
 
 <img src="media/XLeRobot.png" alt="Alt text" width="1200" />
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README_CN.md)
-[![es](https://img.shields.io/badge/lang-es-green.svg)](README_ES.md)
-[![de](https://img.shields.io/badge/lang-de-orange.svg)](README_DE.md)
-[![fr](https://img.shields.io/badge/lang-fr-white.svg)](README_FR.md)
-[![日本語](https://img.shields.io/badge/lang-日本語-yellow.svg)](README_JP.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
+[![Français](https://img.shields.io/badge/lang-Français-white.svg)](README.FR.md)
+[![русский](https://img.shields.io/badge/lang-русский-red.svg)](README.RU.md)
+[![Español](https://img.shields.io/badge/lang-Español-green.svg)](README.ES.md)
+[![Deutschland](https://img.shields.io/badge/lang-Deutschland-orange.svg)](README.DE.md)
+[![日本語](https://img.shields.io/badge/lang-日本語-yellow.svg)](README.JP.md)
 
 > [!NOTE] 
 > Hardware: **XLeRobot 0.1.0** is officially out! The current version includes a detailed **bill of materials**, **3D printing models and instructions**, and a **step-by-step assembly guide**. While the code is not yet available, you can **run the teleoperation test** on a single arm version (controlled with the other follower arm) directly using the original Lekiwi codebase.
